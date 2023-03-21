@@ -1,7 +1,7 @@
 ## Projects
 
 
-- [VERIFAI](https://verifai.science): Live demo of the VERIFAI Framework (WIP).
+- [VERIFAI](https://verifai.science): Live demo of the VERIFAI -framework (WIP).
 
 ## Publications
 
